@@ -1,8 +1,15 @@
 header {
-    background-color: navy;
+    background-color:burlywood;
     color: white;
     width: 100%;
     padding: 2%;
     margin: 10px;
     text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+body {
+    background-color: cornsilk;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
 }
